@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+Welcome to my ✨ _special_ ✨ repository 😋
 
-## 🔭 I’m currently working on my cloud server architecture project
+- 🌱 I’m currently learning typescript and devops at the moment.
+- 🔭 I’m currently working on my cloud server architecture project.
+- 📫 How to reach me for work or a chat: bradleyhs6@gmail.com
+- ⚡ Fun fact: The quietest room in the world is located at Microsofts headquarters in Washington.
 
 <!--
 **rocstack/rocstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
