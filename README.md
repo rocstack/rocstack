@@ -1,22 +1,10 @@
-### Hello there 👋
-Welcome to my ✨ _special_ ✨ repository 😋
+# Hey there 👋
 
-- 🌱 I’m currently learning typescript and devops at the moment.
-- 🔭 I’m currently working on my cloud server architecture project.
-- 📫 How to reach me for work or a chat: bradleyhs6@gmail.com
+### You've found my amazing  repo 😄
+
+### Just a few bits about me and a fun fact at the end!
+
+- 🌱 I’m currently **learning** TypeScript, React & different DevOps methodologies at the moment.
+- 🔭 I’m currently **working** on my personal CRM project.
+- 📫 How to reach me for work or a chat: bradleyhs6@gmail.com or find my profile site at **imbrad.dev**
 - ⚡ Fun fact: The quietest room in the world is located at Microsofts headquarters in Washington.
-
-<!--
-**rocstack/rocstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
